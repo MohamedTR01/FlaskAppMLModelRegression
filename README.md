@@ -8,3 +8,8 @@
 ![Screenshot 2023-07-03 234558](https://github.com/MohamedTR01/FlaskAppMLModelRegression/assets/119167993/29093103-20ee-4e0c-8f09-10696654ffc2)
 
 ![Screenshot 2023-07-03 234641](https://github.com/MohamedTR01/FlaskAppMLModelRegression/assets/119167993/0c73cb90-0ae7-4394-86c9-6342465f22b6)
+
+|X|Y|
+|Années|Prix de voiture|
+|Kilométrage|-|
+| Le nombre de chevaux |-|
