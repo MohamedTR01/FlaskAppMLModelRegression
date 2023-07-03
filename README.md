@@ -11,6 +11,6 @@
 
 |          X           |       Y       |
 |:---------------------|--------------:|
-|        Années        |Prix de voiture|
-|      Kilométrage     |       --      |
-| Le nombre de chevaux |       --      |
+|        Années        |
+|      Kilométrage     |Prix de voiture|
+| Le nombre de chevaux |
